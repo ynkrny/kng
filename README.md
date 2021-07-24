@@ -1,2 +1,3 @@
 # kng
-tes
+
+Belajar membuat aplikasi
